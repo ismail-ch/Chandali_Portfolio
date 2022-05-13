@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Chandali_Portfolio/static/css/main.612e756e.css",
-    "main.js": "/Chandali_Portfolio/static/js/main.4d5c3457.js",
+    "main.js": "/Chandali_Portfolio/static/js/main.cb3b4cff.js",
     "static/media/22.png": "/Chandali_Portfolio/static/media/22.68ca95ef86380b2b18ae.png",
     "static/media/student_justify (2).png": "/Chandali_Portfolio/static/media/student_justify (2).e884e168839a5bb1b779.png",
     "static/media/graph (2).png": "/Chandali_Portfolio/static/media/graph (2).532e9df9485b8023d03a.png",
@@ -26,10 +26,10 @@
     "static/media/download-removebg-preview (2).png": "/Chandali_Portfolio/static/media/download-removebg-preview (2).26db487d9479ac629382.png",
     "index.html": "/Chandali_Portfolio/index.html",
     "main.612e756e.css.map": "/Chandali_Portfolio/static/css/main.612e756e.css.map",
-    "main.4d5c3457.js.map": "/Chandali_Portfolio/static/js/main.4d5c3457.js.map"
+    "main.cb3b4cff.js.map": "/Chandali_Portfolio/static/js/main.cb3b4cff.js.map"
   },
   "entrypoints": [
     "static/css/main.612e756e.css",
-    "static/js/main.4d5c3457.js"
+    "static/js/main.cb3b4cff.js"
   ]
 }
