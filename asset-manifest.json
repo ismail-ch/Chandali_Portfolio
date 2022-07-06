@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.57d388fb.css",
-    "main.js": "/static/js/main.0ba68801.js",
+    "main.css": "/static/css/main.4ee52dba.css",
+    "main.js": "/static/js/main.6326e563.js",
     "static/media/22.png": "/static/media/22.68ca95ef86380b2b18ae.png",
     "static/media/ismail.docx": "/static/media/ismail.cd22f6ce5b5171abc831.docx",
     "static/media/student_justify (2).png": "/static/media/student_justify (2).e884e168839a5bb1b779.png",
@@ -10,6 +10,7 @@
     "static/media/managment (2).png": "/static/media/managment (2).bca81cfb6ea60203f2b5.png",
     "static/media/Signup.png": "/static/media/Signup.a57a5e9e7d855e7d4136.png",
     "static/media/mfoodhub.png": "/static/media/mfoodhub.55b65159f3bb049fb4e1.png",
+    "static/media/headimg.png": "/static/media/headimg.64e9013e4f88a388a5fc.png",
     "static/media/attendence-review.jpg": "/static/media/attendence-review.90a98873a67cdfda8cd8.jpg",
     "static/media/weekly-attendec.jpg": "/static/media/weekly-attendec.53fc6958bd5feba4911b.jpg",
     "static/media/101_list.jpg": "/static/media/101_list.643f23a4676972d8ca63.jpg",
@@ -26,11 +27,11 @@
     "static/media/download-removebg-preview (3).png": "/static/media/download-removebg-preview (3).4f4ffe8f0ad44f60ec70.png",
     "static/media/download-removebg-preview (2).png": "/static/media/download-removebg-preview (2).26db487d9479ac629382.png",
     "index.html": "/index.html",
-    "main.57d388fb.css.map": "/static/css/main.57d388fb.css.map",
-    "main.0ba68801.js.map": "/static/js/main.0ba68801.js.map"
+    "main.4ee52dba.css.map": "/static/css/main.4ee52dba.css.map",
+    "main.6326e563.js.map": "/static/js/main.6326e563.js.map"
   },
   "entrypoints": [
-    "static/css/main.57d388fb.css",
-    "static/js/main.0ba68801.js"
+    "static/css/main.4ee52dba.css",
+    "static/js/main.6326e563.js"
   ]
 }
